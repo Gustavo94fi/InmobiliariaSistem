@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/InmobiliariaTP2 v0.0.6/lib/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InmobiliariaTP2 v0.0.6/lib/gson-javatime-serialisers-1.1.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/InmobiliariaTP/lib" />
+      <root url="file://$PROJECT_DIR$/InmobiliariaTP/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/InmobiliariaTP/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/InmobiliariaTP/lib" recursive="false" />
+  </library>
+</component>

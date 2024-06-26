@@ -1,0 +1,549 @@
+{
+  "elementos": [
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 2.0,
+          "id": "0046abfd92",
+          "dimension": 52.0,
+          "propietario": {
+            "apellido": "FERNANDEZ",
+            "nombre": "LUISA",
+            "telefono": "223312318",
+            "DNI": "33445568"
+          },
+          "direccion": {
+            "altura": "962",
+            "calle": "CASTELLI",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1800000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 0046abfd92.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 1.0,
+          "id": "08d1845f28",
+          "dimension": 35.0,
+          "propietario": {
+            "apellido": "RODRIGUEZ",
+            "nombre": "CAMILA",
+            "telefono": "223312314",
+            "DNI": "98765434"
+          },
+          "direccion": {
+            "altura": "2582",
+            "calle": "SAN MARTIN",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1800000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 08d1845f28.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "09c11abacd",
+          "dimension": 151.0,
+          "propietario": {
+            "apellido": "LOPEZ",
+            "nombre": "FERNANDA",
+            "telefono": "223312312",
+            "DNI": "22232322"
+          },
+          "direccion": {
+            "altura": "4321",
+            "calle": "COLON",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1700000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 09c11abacd.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 55.0,
+          "id": "0cde0f58f6",
+          "dimension": 99.0,
+          "propietario": {
+            "apellido": "MARTINEZ",
+            "nombre": "CARLOS",
+            "telefono": "223312313",
+            "DNI": "12312313"
+          },
+          "direccion": {
+            "altura": "1215",
+            "calle": "MORENO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "valor": 1600000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 0cde0f58f6.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 15000.0,
+          "amenities": "-",
+          "id": "3bb0794e3b",
+          "dimension": 123.0,
+          "propietario": {
+            "apellido": "DIAZ",
+            "nombre": "DIEGO",
+            "telefono": "223312319",
+            "DNI": "66778899"
+          },
+          "direccion": {
+            "altura": "834",
+            "calle": "JUAN B. JUSTO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "valor": 1500000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 3bb0794e3b.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 15000.0,
+          "amenities": "-",
+          "id": "3dbe7d63fa",
+          "dimension": 128.0,
+          "propietario": {
+            "apellido": "PEREYRA",
+            "nombre": "MARCELO",
+            "telefono": "223312327",
+            "DNI": "33445577"
+          },
+          "direccion": {
+            "altura": "3472",
+            "calle": "SAN LUIS",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "valor": 1500000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 3dbe7d63fa.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 44.0,
+          "id": "548ac691dc",
+          "dimension": 74.0,
+          "propietario": {
+            "apellido": "SUAREZ",
+            "nombre": "MARIANO",
+            "telefono": "223312321",
+            "DNI": "22113341"
+          },
+          "direccion": {
+            "altura": "1267",
+            "calle": "LURO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "valor": 1600000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 548ac691dc.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 15000.0,
+          "amenities": "-",
+          "id": "627347b89b",
+          "dimension": 125.0,
+          "propietario": {
+            "apellido": "GARCIA",
+            "nombre": "ROBERTO",
+            "telefono": "223312311",
+            "DNI": "31095321"
+          },
+          "direccion": {
+            "altura": "2901",
+            "calle": "BOLIVAR",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "valor": 1500000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 627347b89b.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 0.0,
+          "id": "75a18335c3",
+          "dimension": 189.0,
+          "propietario": {
+            "apellido": "FLORES",
+            "nombre": "SOL",
+            "telefono": "223312330",
+            "DNI": "22113350"
+          },
+          "direccion": {
+            "altura": "2379",
+            "calle": "GARAY",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1800000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 75a18335c3.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 133.0,
+          "id": "7bbcfb9c92",
+          "dimension": 187.0,
+          "propietario": {
+            "apellido": "CASTRO",
+            "nombre": "FACUNDO",
+            "telefono": "223312329",
+            "DNI": "55443339"
+          },
+          "direccion": {
+            "altura": "3472",
+            "calle": "SANTA FE",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "valor": 1600000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 7bbcfb9c92.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 2.0,
+          "id": "9a0162f49b",
+          "dimension": 197.0,
+          "propietario": {
+            "apellido": "BENITEZ",
+            "nombre": "LUCIA",
+            "telefono": "223312326",
+            "DNI": "99887776"
+          },
+          "direccion": {
+            "altura": "4562",
+            "calle": "MITRE",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1800000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ 9a0162f49b.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "a020b33259",
+          "dimension": 176.0,
+          "propietario": {
+            "apellido": "LUNA",
+            "nombre": "JULIETA",
+            "telefono": "223312328",
+            "DNI": "66778908"
+          },
+          "direccion": {
+            "altura": "7965",
+            "calle": "SAAVEDRA",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1700000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ a020b33259.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 77.0,
+          "id": "a7999548b7",
+          "dimension": 147.0,
+          "propietario": {
+            "apellido": "MENDOZA",
+            "nombre": "CELESTE",
+            "telefono": "223312325",
+            "DNI": "11223355"
+          },
+          "direccion": {
+            "altura": "2467",
+            "calle": "RAWSON",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "valor": 1600000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ a7999548b7.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 15000.0,
+          "amenities": "-",
+          "id": "bdb301db5b",
+          "dimension": 83.0,
+          "propietario": {
+            "apellido": "GOMEZ",
+            "nombre": "LUCAS",
+            "telefono": "223312315",
+            "DNI": "45678905"
+          },
+          "direccion": {
+            "altura": "6941",
+            "calle": "BELGRANO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "valor": 1500000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ bdb301db5b.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "be3d70e71c",
+          "dimension": 11.0,
+          "propietario": {
+            "apellido": "ROMERO",
+            "nombre": "GUSTAVO",
+            "telefono": "223312324",
+            "DNI": "44332214"
+          },
+          "direccion": {
+            "altura": "5682",
+            "calle": "PASO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1700000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ be3d70e71c.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 15000.0,
+          "amenities": "-",
+          "id": "d23e604c24",
+          "dimension": 67.0,
+          "propietario": {
+            "apellido": "RIOS",
+            "nombre": "AGUSTIN",
+            "telefono": "223312323",
+            "DNI": "88990013"
+          },
+          "direccion": {
+            "altura": "7534",
+            "calle": "9 DE JULIO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "valor": 1500000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ d23e604c24.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "e189a9447f",
+          "dimension": 119.0,
+          "propietario": {
+            "apellido": "PEREZ",
+            "nombre": "VALENTINA",
+            "telefono": "223312316",
+            "DNI": "11223346"
+          },
+          "direccion": {
+            "altura": "4742",
+            "calle": "RIVADAVIA",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1700000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ e189a9447f.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 22.0,
+          "id": "e92159d9ef",
+          "dimension": 43.0,
+          "propietario": {
+            "apellido": "SANCHEZ",
+            "nombre": "JUAN",
+            "telefono": "223312317",
+            "DNI": "99887767"
+          },
+          "direccion": {
+            "altura": "1628",
+            "calle": "ALEM",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "valor": 1600000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ e92159d9ef.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 3.0,
+          "id": "f2031994aa",
+          "dimension": 47.0,
+          "propietario": {
+            "apellido": "ACOSTA",
+            "nombre": "ROCIO",
+            "telefono": "223312322",
+            "DNI": "77665542"
+          },
+          "direccion": {
+            "altura": "5422",
+            "calle": "INDEPENDENCIA",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1800000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ f2031994aa.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "f4abd27d19",
+          "dimension": 64.0,
+          "propietario": {
+            "apellido": "TORRES",
+            "nombre": "LAURA",
+            "telefono": "223312320",
+            "DNI": "55443320"
+          },
+          "direccion": {
+            "altura": "472",
+            "calle": "DORREGO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "valor": 1700000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "VENTA",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Venta\\ f4abd27d19.jpg"
+    }
+  ]
+}

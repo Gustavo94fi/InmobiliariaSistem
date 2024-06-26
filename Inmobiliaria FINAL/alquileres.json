@@ -1,0 +1,569 @@
+{
+  "elementos": [
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 2.0,
+          "id": "06e59bc2a8",
+          "dimension": 52.0,
+          "propietario": {
+            "apellido": "FERNANDEZ",
+            "nombre": "LUIS",
+            "telefono": "223312311",
+            "DNI": "3344556"
+          },
+          "direccion": {
+            "altura": "962",
+            "calle": "CASTELLI",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 18000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\06e59bc2a8.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "06e8eec073",
+          "dimension": 119.0,
+          "propietario": {
+            "apellido": "LOPEZ",
+            "nombre": "CARLOS",
+            "telefono": "223312311",
+            "DNI": "1122334"
+          },
+          "direccion": {
+            "altura": "4742",
+            "calle": "RIVADAVIA",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 17000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\06e8eec073.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 3.0,
+          "id": "1c7aa89630",
+          "dimension": 47.0,
+          "propietario": {
+            "apellido": "LUNA",
+            "nombre": "MARIANO",
+            "telefono": "223312311",
+            "DNI": "7766554"
+          },
+          "direccion": {
+            "altura": "5422",
+            "calle": "INDEPENDENCIA",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 18000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\1c7aa89630.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "25a4ca13d5",
+          "dimension": 176.0,
+          "propietario": {
+            "apellido": "BENITEZ",
+            "nombre": "JULIETA",
+            "telefono": "223312311",
+            "DNI": "6677890"
+          },
+          "direccion": {
+            "altura": "7965",
+            "calle": "SAAVEDRA",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 17000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\25a4ca13d5.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 1.0,
+          "id": "27ce69ed1e",
+          "dimension": 35.0,
+          "propietario": {
+            "apellido": "GOMEZ",
+            "nombre": "MARIA",
+            "telefono": "223312311",
+            "DNI": "9876543"
+          },
+          "direccion": {
+            "altura": "2582",
+            "calle": "SAN MARTIN",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 18000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\27ce69ed1e.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 15000.0,
+          "amenities": "-",
+          "id": "2a64ad7c45",
+          "dimension": 67.0,
+          "propietario": {
+            "apellido": "ACOSTA",
+            "nombre": "ROCIO",
+            "telefono": "223312311",
+            "DNI": "8899001"
+          },
+          "direccion": {
+            "altura": "7534",
+            "calle": "9 DE JULIO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "monto": 15000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\2a64ad7c45.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 77.0,
+          "id": "2af2a6fa54",
+          "dimension": 147.0,
+          "propietario": {
+            "apellido": "BLANCO",
+            "nombre": "CELESTE",
+            "telefono": "223312311",
+            "DNI": "1122335"
+          },
+          "direccion": {
+            "altura": "2467",
+            "calle": "RAWSON",
+            "localidad": "MDP",
+            "piso": "1",
+            "depto": "e"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "inquilino": {
+        "apellido": "TOMSEN",
+        "nombre": "RAMIRO",
+        "telefono": "22345021",
+        "DNI": "33029112"
+      },
+      "monto": 16000.0,
+      "estado": "ALQUILADO",
+      "condicion": "ALQUILER",
+      "inicioAlquiler": "2024-06-03",
+      "finalAlquiler": "2024-06-30",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\2af2a6fa54.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 2.0,
+          "id": "37dd102b66",
+          "dimension": 197.0,
+          "propietario": {
+            "apellido": "SUAREZ",
+            "nombre": "LUCAS",
+            "telefono": "223312311",
+            "DNI": "9988777"
+          },
+          "direccion": {
+            "altura": "4562",
+            "calle": "MITRE",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 18000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\37dd102b66.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 15000.0,
+          "amenities": "-",
+          "id": "58f2838b81",
+          "dimension": 123.0,
+          "propietario": {
+            "apellido": "GIMENEZ",
+            "nombre": "LUCIA",
+            "telefono": "223312311",
+            "DNI": "6677889"
+          },
+          "direccion": {
+            "altura": "834",
+            "calle": "JUAN B. JUSTO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "monto": 15000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\58f2838b81.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "71bf538ba1",
+          "dimension": 151.0,
+          "propietario": {
+            "apellido": "ROMAN",
+            "nombre": "JORGE",
+            "telefono": "223312311",
+            "DNI": "2223232"
+          },
+          "direccion": {
+            "altura": "4321",
+            "calle": "COLON",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 17000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\71bf538ba1.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 55.0,
+          "id": "88697f04d7",
+          "dimension": 99.0,
+          "propietario": {
+            "apellido": "DOLDAN",
+            "nombre": "DAMIAN",
+            "telefono": "223312311",
+            "DNI": "1231231"
+          },
+          "direccion": {
+            "altura": "1215",
+            "calle": "MORENO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "monto": 16000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\88697f04d7.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 0.0,
+          "amenities": "-",
+          "id": "983f0464d0",
+          "dimension": 128.0,
+          "propietario": {
+            "apellido": "PEREYRA",
+            "nombre": "MARIA",
+            "telefono": "223312311",
+            "DNI": "3344557"
+          },
+          "direccion": {
+            "altura": "3472",
+            "calle": "SAN LUIS",
+            "localidad": "MDP",
+            "piso": "",
+            "depto": ""
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "inquilino": {
+        "apellido": "RAM",
+        "nombre": "GUSTAVO",
+        "telefono": "223501920",
+        "DNI": "40999219"
+      },
+      "monto": 15000.0,
+      "estado": "ALQUILADO",
+      "condicion": "ALQUILER",
+      "inicioAlquiler": "2024-06-05",
+      "finalAlquiler": "2024-06-30",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\983f0464d0.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "9e9829f907",
+          "dimension": 11.0,
+          "propietario": {
+            "apellido": "MENDOZA",
+            "nombre": "GUSTAVO",
+            "telefono": "223312311",
+            "DNI": "4433221"
+          },
+          "direccion": {
+            "altura": "5682",
+            "calle": "PASO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 17000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\9e9829f907.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 15000.0,
+          "amenities": "-",
+          "id": "b0c76d62f4",
+          "dimension": 125.0,
+          "propietario": {
+            "apellido": "PEREZ",
+            "nombre": "JUAN",
+            "telefono": "223312311",
+            "DNI": "31095321"
+          },
+          "direccion": {
+            "altura": "2901",
+            "calle": "BOLIVAR",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "monto": 15000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\b0c76d62f4.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Departamento",
+        "data": {
+          "expensas": 15000.0,
+          "amenities": "-",
+          "id": "b0dc0e4cf1",
+          "dimension": 83.0,
+          "propietario": {
+            "apellido": "MARTINEZ",
+            "nombre": "LAURA",
+            "telefono": "223312311",
+            "DNI": "4567890"
+          },
+          "direccion": {
+            "altura": "6941",
+            "calle": "BELGRANO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 3,
+          "cantidadAmbientes": 2
+        }
+      },
+      "monto": 15000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\b0dc0e4cf1.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Local",
+        "data": {
+          "expensas": 17000.0,
+          "id": "b651747d78",
+          "dimension": 64.0,
+          "propietario": {
+            "apellido": "RODRIGUEZ",
+            "nombre": "DIEGO",
+            "telefono": "223312311",
+            "DNI": "5544332"
+          },
+          "direccion": {
+            "altura": "472",
+            "calle": "DORREGO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 17000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\b651747d78.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 22.0,
+          "id": "b86360299d",
+          "dimension": 43.0,
+          "propietario": {
+            "apellido": "SANCHEZ",
+            "nombre": "ANA",
+            "telefono": "223312311",
+            "DNI": "9988776"
+          },
+          "direccion": {
+            "altura": "1628",
+            "calle": "ALEM",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "monto": 16000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\b86360299d.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 44.0,
+          "id": "bb6acf91f6",
+          "dimension": 74.0,
+          "propietario": {
+            "apellido": "ALVAREZ",
+            "nombre": "VALERIA",
+            "telefono": "223312311",
+            "DNI": "2211334"
+          },
+          "direccion": {
+            "altura": "1267",
+            "calle": "LURO",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "monto": 16000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\bb6acf91f6.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Chalet",
+        "data": {
+          "superficieConstruida": 133.0,
+          "id": "e5634cb1c4",
+          "dimension": 187.0,
+          "propietario": {
+            "apellido": "ROMERO",
+            "nombre": "FACUNDO",
+            "telefono": "223312311",
+            "DNI": "5544333"
+          },
+          "direccion": {
+            "altura": "3472",
+            "calle": "SANTA FE",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 2,
+          "cantidadAmbientes": 4
+        }
+      },
+      "monto": 16000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\e5634cb1c4.jpg"
+    },
+    {
+      "propiedad": {
+        "type": "Lote",
+        "data": {
+          "fot": 0.0,
+          "id": "e7717a4395",
+          "dimension": 189.0,
+          "propietario": {
+            "apellido": "RIOS",
+            "nombre": "SOL",
+            "telefono": "223312311",
+            "DNI": "2211335"
+          },
+          "direccion": {
+            "altura": "2379",
+            "calle": "GARAY",
+            "localidad": "MDP"
+          },
+          "cantidadBanios": 0,
+          "cantidadAmbientes": 0
+        }
+      },
+      "monto": 18000.0,
+      "estado": "DISPONIBLE",
+      "condicion": "ALQUILER",
+      "urlFotos": "C:\\Users\\gusta\\Documents\\Nueva carpeta\\InmobiliariaTP2\\imagenes\\Alquiler\\e7717a4395.jpg"
+    }
+  ]
+}
